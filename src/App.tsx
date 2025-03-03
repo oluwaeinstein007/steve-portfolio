@@ -15,6 +15,7 @@ import {
   PenTool, 
   ChevronUp 
 } from 'lucide-react';
+import steveImage from './steve.png';
 
 function App() {
   const [showMoreExperience, setShowMoreExperience] = useState(false);
@@ -69,7 +70,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center gap-8">
             <div className="md:w-1/3">
               <img 
-                src="/src/steve.png"
+                src={steveImage}
                 alt="Stephen Ogbaje" 
                 className="rounded-lg shadow-lg w-full max-w-md mx-auto"
               />
