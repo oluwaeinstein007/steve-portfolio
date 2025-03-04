@@ -49,10 +49,10 @@ function App() {
             <div className="mt-8 md:mt-0">
               <div className="bg-white p-4 rounded-lg shadow-lg text-gray-800">
                 <div className="mb-2">
-                  <span className="font-semibold">Email:</span> <a href="mailto:ogbajestephen2@gmail.com" className="text-blue-600 hover:underline">ogbajestephen2@gmail.com</a>
+                  <span className="font-semibold">Email:</span> <a href="mailto:ogbajestephen94@gmail.com" className="text-blue-600 hover:underline">ogbajestephen94@gmail.com</a>
                 </div>
                 <div className="mb-2">
-                  <span className="font-semibold">Phone:</span> <a href="tel:+2348108359089" className="text-blue-600 hover:underline">(+234) 8108359089</a>
+                  <span className="font-semibold">Phone:</span> <a href="tel:+2348108369089" className="text-blue-600 hover:underline">(+234) 8108369089</a>
                 </div>
                 <div>
                   <span className="font-semibold">Location:</span> Lagos, Nigeria
