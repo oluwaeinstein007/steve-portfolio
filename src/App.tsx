@@ -276,7 +276,7 @@ function App() {
                   <li>Implemented agile methodologies to optimize workflow, ensuring adaptability and focus on delivering customer-centric solutions</li>
                 </ul>
                 <div className="mt-4">
-                  <a href="https://www.ubamerica.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline flex items-center">
+                  <a href="https://www.ubaamerica.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline flex items-center">
                     Visit Website <ExternalLink size={16} className="ml-1" />
                   </a>
                 </div>
