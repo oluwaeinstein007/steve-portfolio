@@ -482,7 +482,7 @@ function App() {
                 <span className="text-blue-600 mr-2"><Code size={24} /></span>
                 Blockchain Technologies
               </h3>
-              <p>Polygon, IPFS</p>
+              <p>solidity,IPFS</p>
             </div>
             
             <div className="bg-gray-50 rounded-lg shadow-md p-6">
@@ -490,7 +490,7 @@ function App() {
                 <span className="text-blue-600 mr-2"><User size={24} /></span>
                 Languages
               </h3>
-              <p>English, Yoruba</p>
+              <p>English, Yoruba,Igbo</p>
             </div>
           </div>
         </div>
