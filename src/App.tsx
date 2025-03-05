@@ -191,16 +191,15 @@ function App() {
             <div className="bg-gray-50 rounded-lg shadow-md p-6 mb-6">
               <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
                 <div>
-                  <h3 className="text-xl font-bold">Future of Work : Ghana</h3>
+                  <h3 className="text-xl font-bold">Future of Work :University of Accra,Ghana</h3>
                   <p className="text-lg italic">Speaker and Hackathon Judge</p>
                 </div>
                 <div className="mt-2 md:mt-0">
-                  <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">June 2023</span>
+                  <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">March 2025</span>
                 </div>
               </div>
               <p className="mb-2">Delivered a talk on the Academia and industry in Ghana and also was part of the Judges for the hackathon competition.</p>
             </div>
-            
             <div className="bg-gray-50 rounded-lg shadow-md p-6">
               <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
                 <div>
