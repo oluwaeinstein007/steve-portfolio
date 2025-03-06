@@ -55,7 +55,7 @@ function App() {
                   <span className="font-semibold">Phone:</span> <a href="tel:+2348108369089" className="text-blue-600 hover:underline">(+234) 8108369089</a>
                 </div>
                 <div>
-                  <span className="font-semibold">Location:</span> Lagos, Nigeria
+                  <span className="font-semibold">Location:</span> Remote
                 </div>
               </div>
             </div>
