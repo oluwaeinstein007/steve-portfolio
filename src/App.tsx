@@ -370,8 +370,8 @@ function App() {
               <div className="text-blue-600 mb-4">
                 <PenTool size={32} />
               </div>
-              <h3 className="text-xl font-semibold mb-2">Odoo</h3>
-              <p className="text-gray-600">For integrated business management and ERP solutions</p>
+              <h3 className="text-xl font-semibold mb-2">Google docs</h3>
+              <p className="text-gray-600">To help proper Documentation and collaboration</p>
             </div>
             
             <div className="bg-gray-50 p-6 rounded-lg shadow-md hover:shadow-lg transition">
