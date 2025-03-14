@@ -225,7 +225,7 @@ function App() {
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
               <div>
                 <h3 className="text-xl font-bold">IQ.Wiki: Remote, USA</h3>
-                <p className="text-lg">Technical Product Manager</p>
+                <p className="text-lg">Senior Technical Product Manager</p>
               </div>
               <div className="mt-2 md:mt-0">
                 <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">June 2022 - Present</span>
@@ -272,7 +272,7 @@ function App() {
                 <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
                   <div>
                     <h3 className="text-xl font-bold">UBA Bank, USA</h3>
-                    <p className="text-lg">Contract Senior Product Manager / UX Designer</p>
+                    <p className="text-lg">Senior Product Manager / UX Designer</p>
                   </div>
                   <div className="mt-2 md:mt-0">
                     <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">Jan 2022 - Dec 2022</span>
