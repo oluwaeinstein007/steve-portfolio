@@ -32,7 +32,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="md:w-2/3">
               <h1 className="text-4xl md:text-5xl font-bold mb-4">OGBAJE Stephen A.</h1>
-              <h2 className="text-xl md:text-2xl mb-6">Technical Product Manager</h2>
+              <h2 className="text-xl md:text-2xl mb-6">Senior Technical Product Manager</h2>
               <p className="text-lg mb-8">Building innovative products with a focus on blockchain technology and digital transformation.</p>
               <div className="flex space-x-4">
                 <a href="https://x.com/iamsirsteve" target="_blank" rel="noopener noreferrer" className="bg-white text-blue-900 p-2 rounded-full hover:bg-blue-100 transition">
@@ -55,7 +55,7 @@ function App() {
                   <span className="font-semibold">Phone:</span> <a href="tel:+2348108369089" className="text-blue-600 hover:underline">(+234) 8108369089</a>
                 </div>
                 <div>
-                  <span className="font-semibold">Location:</span> Lagos, Nigeria
+                  <span className="font-semibold">Location:</span> Remote
                 </div>
               </div>
             </div>
@@ -77,7 +77,7 @@ function App() {
             </div>
             <div className="md:w-2/3">
               <p className="text-lg mb-6">
-                Technical Product Manager with a proven track record of developing and launching successful products. 
+                Senior Technical Product Manager with a proven track record of developing and launching successful products. 
                 Adept at collaborating with cross-functional teams, conducting market research, and analyzing customer 
                 feedback to drive product strategy. Managed a portfolio of products with a total revenue of $2M, 
                 resulting in a 20% increase in sales.
@@ -203,7 +203,7 @@ function App() {
             <div className="bg-gray-50 rounded-lg shadow-md p-6">
               <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
                 <div>
-                  <h3 className="text-xl font-bold">NFT, NYC</h3>
+                  <h3 className="text-xl font-bold">NFT, NYC, London</h3>
                   <p className="text-lg italic">Speaker (Panelist)</p>
                 </div>
                 <div className="mt-2 md:mt-0">
