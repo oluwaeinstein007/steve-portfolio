@@ -248,7 +248,7 @@ function App() {
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
               <div>
                 <h3 className="text-xl font-bold">NITDA Agency, Nigeria</h3>
-                <p className="text-lg">Lead Product Manager</p>
+                <p className="text-lg">Senior Product Manager</p>
               </div>
               <div className="mt-2 md:mt-0">
                 <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">Dec 2023 - Dec 2024</span>
