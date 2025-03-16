@@ -66,7 +66,7 @@ function App() {
       {/* About Section with Picture */}
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold mb-8 text-center padding:20px">About Me</h2>
+          <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
           <div className="flex flex-col md:flex-row items-center gap-8">
             <div className="md:w-1/3">
               <img 
