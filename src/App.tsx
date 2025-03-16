@@ -32,7 +32,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="md:w-2/3">
               <h1 className="text-4xl md:text-5xl font-bold mb-4">OGBAJE Stephen A.</h1>
-              <h2 className="text-xl md:text-2xl mb-6">Senior Technical Product Manager</h2>
+              <h2 className="text-xl md:text-2xl mb-6">Senior Technical Product Manager (CSPO)</h2>
               <p className="text-lg mb-8">Building innovative products with a focus on blockchain technology and digital transformation.</p>
               <div className="flex space-x-4">
                 <a href="https://x.com/iamsirsteve" target="_blank" rel="noopener noreferrer" className="bg-white text-blue-900 p-2 rounded-full hover:bg-blue-100 transition">
@@ -52,7 +52,7 @@ function App() {
                   <span className="font-semibold">Email:</span> <a href="mailto:ogbajestephen94@gmail.com" className="text-blue-600 hover:underline">ogbajestephen94@gmail.com</a>
                 </div>
                 <div className="mb-2">
-                  <span className="font-semibold">Phone:</span> <a href="tel:+2348108369089" className="text-blue-600 hover:underline">(+234) 8108369089</a>
+                  {/* <span className="font-semibold">Phone:</span> <a href="tel:+2348108369089" className="text-blue-600 hover:underline">(+234) 8108369089</a> */}
                 </div>
                 <div>
                   <span className="font-semibold">Location:</span> Remote
