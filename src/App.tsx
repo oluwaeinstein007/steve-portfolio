@@ -153,7 +153,7 @@ function App() {
             <div className="bg-gray-50 rounded-lg shadow-md p-6 mb-6">
               <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
                 <div>
-                  <h3 className="text-xl font-bold">Blockchain Student Conference: OAU</h3>
+                  <h3 className="text-xl font-bold">Blockchain Student Conference: Blockchain Confernece,OAU</h3>
                   <p className="text-lg italic">Organizer</p>
                 </div>
                 <div className="mt-2 md:mt-0">
