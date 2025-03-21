@@ -191,7 +191,7 @@ function App() {
             <div className="bg-gray-50 rounded-lg shadow-md p-6 mb-6">
               <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
                 <div>
-                  <h3 className="text-xl font-bold">Future of Work :University of Accra,Ghana</h3>
+                  <h3 className="text-xl font-bold">Future of Work 2.0 :University of Accra,Ghana</h3>
                   <p className="text-lg italic">Speaker and Hackathon Judge</p>
                 </div>
                 <div className="mt-2 md:mt-0">
