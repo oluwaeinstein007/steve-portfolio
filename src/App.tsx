@@ -137,7 +137,7 @@ function App() {
               <div className="text-blue-600 mb-4">
                 <Briefcase size={40} />
               </div>
-              <h3 className="text-xl font-semibold mb-2">Blockchain Pioneer</h3>
+              <h3 className="text-xl font-semibold mb-2">Blockchain  Conference event</h3>
               <p>Organized the first-ever blockchain conference and built a food ordering solution on campus</p>
             </div>
           </div>
