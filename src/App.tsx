@@ -505,7 +505,7 @@ function App() {
                 <span className="text-blue-600 mr-2"><Briefcase size={24} /></span>
                 Product Management
               </h3>
-              <p>Agile Methodology, Customer Facing, Emerging Technology, Product Management, Strategic Thinking, Quality Assurance, Leadership, Product strategy, Roadmap development, Analytical skill, Customer focus, UX Review, KPI Tracking, Product Vision and Roadmap, Stakeholder Management, Collaboration with Engineering Team, Requirements Building, Competitive Analysis, presentation skills, Scrum master, Competitive Analysis, decision Making, Prototyping, Backlog Refinement, Data-Driven Decision Making, Customer Interviews, Commercial Success, Customer-Centricity</p>
+              <p>Roadmapping, prioritization, Agile delivery, outcome-based planning</p>
             </div>
             
             <div className="bg-gray-50 rounded-lg shadow-md p-6 mb-6">
