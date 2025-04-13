@@ -492,15 +492,15 @@ function App() {
                 <span className="text-blue-600 mr-2"><Code size={24} /></span>
                 Frontend
               </h3>
-              <p>HTML, CSS, JavaScript, React</p>
+              <p>HTML, CSS, JavaScript, React,Solidity</p>
             </div>
             
             <div className="bg-gray-50 rounded-lg shadow-md p-6 mb-6">
               <h3 className="text-xl font-bold mb-4 flex items-center">
                 <span className="text-blue-600 mr-2"><Code size={24} /></span>
-                Blockchain Technologies
+                Industry Domains
               </h3>
-              <p>solidity,IPFS</p>
+              <p>Fintech, Blockchain, Crypto, AI, GovTech, B2B SaaS</p>
             </div>
             
             <div className="bg-gray-50 rounded-lg shadow-md p-6">
@@ -508,7 +508,7 @@ function App() {
                 <span className="text-blue-600 mr-2"><User size={24} /></span>
                 Languages
               </h3>
-              <p>English, Yoruba,Igbo</p>
+              <p>English,Yoruba,Igbo</p>
             </div>
           </div>
         </div>
