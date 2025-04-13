@@ -268,7 +268,7 @@ function App() {
           
           {showMoreExperience && (
             <>
-              <div className="bg-white rounded-lg shadow-md p-6 mb-8">
+            <div className="bg-white rounded-lg shadow-md p-6 mb-8">
                 <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
                   <div>
                     <h3 className="text-xl font-bold">UBA Bank, USA</h3>
@@ -288,6 +288,27 @@ function App() {
                 </ul>
                 <div className="mt-4">
                   <a href="https://www.ubaamerica.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline flex items-center">
+                    Visit Website <ExternalLink size={16} className="ml-1" />
+                  </a>
+                </div>
+              </div>
+              <div className="bg-white rounded-lg shadow-md p-6 mb-8">
+                <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
+                  <div>
+                    <h3 className="text-xl font-bold">Avitech,lagos, Nigeria</h3>
+                    <p className="text-lg">Senior Product Manager </p>
+                  </div>
+                  <div className="mt-2 md:mt-0">
+                    <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">Jan 2020 - Jun 2021</span>
+                  </div>
+                </div>
+                <ul className="list-disc pl-5 space-y-2">
+                 <li>Defined and drove the execution of a roadmap aligned with business objectives in the crypto and financial space.</li>
+                 <li>Prioritized outcomes and led agile teams to deliver continuous improvements in user and partner experience.</li>
+                 <li>Maintained competitive intelligence and product tracking to adapt strategies in real-time</li>
+                </ul>
+                <div className="mt-4">
+                  <a href="https://www.avitechng.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline flex items-center">
                     Visit Website <ExternalLink size={16} className="ml-1" />
                   </a>
                 </div>
@@ -468,7 +489,7 @@ function App() {
                 <span className="text-blue-600 mr-2"><Medal size={24} /></span>
                 Analytics & Metrics
               </h3>
-              <p>SQL, Tableau, Looker, KPIs, A/B testing, experimentation frameworks</p>
+              <p>SQL, Tableau,Looker,KPIs,A/B testing,experimentation frameworks</p>
             </div>
             
             <div className="bg-gray-50 rounded-lg shadow-md p-6 mb-6">
