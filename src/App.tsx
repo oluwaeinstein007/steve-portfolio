@@ -459,9 +459,16 @@ function App() {
             <div className="bg-gray-50 rounded-lg shadow-md p-6 mb-6">
               <h3 className="text-xl font-bold mb-4 flex items-center">
                 <span className="text-blue-600 mr-2"><Medal size={24} /></span>
-                Design
+                Design & Delivery
               </h3>
-              <p>Figma, CorelDraw, Photoshop, Canva</p>
+              <p>Figma, prototyping, usability testing, wireframing</p>
+            </div>
+            <div className="bg-gray-50 rounded-lg shadow-md p-6 mb-6">
+              <h3 className="text-xl font-bold mb-4 flex items-center">
+                <span className="text-blue-600 mr-2"><Medal size={24} /></span>
+                Analytics & Metrics
+              </h3>
+              <p>SQL, Tableau, Looker, KPIs, A/B testing, experimentation frameworks</p>
             </div>
             
             <div className="bg-gray-50 rounded-lg shadow-md p-6 mb-6">
