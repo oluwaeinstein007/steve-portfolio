@@ -32,7 +32,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="md:w-2/3">
               <h1 className="text-4xl md:text-5xl font-bold mb-4">OGBAJE Stephen A.</h1>
-              <h2 className="text-xl md:text-2xl mb-6">Senior Technical Product Manager (CSPO)</h2>
+              <h2 className="text-xl md:text-2xl mb-6">Senior Product Manager (CSPO)</h2>
               <p className="text-lg mb-8">Building innovative products with a focus on blockchain technology and digital transformation.</p>
               <div className="flex space-x-4">
                 <a href="https://x.com/iamsirsteve" target="_blank" rel="noopener noreferrer" className="bg-white text-blue-900 p-2 rounded-full hover:bg-blue-100 transition">
@@ -77,9 +77,9 @@ function App() {
             </div>
             <div className="md:w-2/3">
               <p className="text-lg mb-6">
-                Senior Technical Product Manager with a proven track record of developing and launching successful products. 
-                Adept at collaborating with cross-functional teams, conducting market research, and analyzing customer 
-                feedback to drive product strategy. Managed a portfolio of products with a total revenue of $2M, 
+              Strategic and data-driven Senior Product Manager with 7+ years of experience delivering innovative, high-impact products across AI, blockchain, fintech, and govtech domains. 
+               Proven success in leading cross-functional teams, scaling platforms, and aligning product vision with business goals.
+               Managed a portfolio of products with a total revenue of $2M, 
                 resulting in a 20% increase in sales.
               </p>
               
